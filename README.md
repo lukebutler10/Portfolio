@@ -1,6 +1,6 @@
 # Luke Butler - Portfolio
 
-By the way here's the link to this page https://lukebutler10.github.io/portfolio/
+By the way here's the link to this page https://lukebutler10.github.io/portfolio/   https://lukebutler10.github.io/Portfolio/
 
 ### [Project 1 - Backpropagation from scratch](https://github.com/lukebutler10/backpropagation_from_scratch/tree/master)
 
