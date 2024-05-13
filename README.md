@@ -8,9 +8,11 @@ In this project I conduct some exploratory data analysis on a selection of YouTu
 
 <img src="/images/youtube_analytics_img.png"  width="50%" height="50%">
 
+
 ### [Income prediction using KNN algorithm](https://github.com/lukebutler10/KNN_Income_Prediction)
 
 In this project my aim was to predict annual income. Income is influenced by various factors such as education level, age, gender and occupation. Extracting data from a public dataset which had these variables and more along with income, I used the K-Nearest Neighbours algorithm to predict income.
+
 
 ### [Backpropagation from scratch](https://github.com/lukebutler10/backpropagation_from_scratch/tree/master)
 
