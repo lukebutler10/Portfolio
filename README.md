@@ -7,7 +7,7 @@ In this project I conduct some exploratory data analysis on a selection of YouTu
 
 ![Graph Image](/images/youtube_analytics_img.png)
 
-###[Blockchain and Cryptocurrency](https://github.com/lukebutler10/blockchain-and-cryptocurrency)
+### [Blockchain and Cryptocurrency](https://github.com/lukebutler10/blockchain-and-cryptocurrency)
 
 In this project my aim was to have a build my development experience in blockchain technology, cryptocurrencies, and frontend development. Here's some key components:
 
