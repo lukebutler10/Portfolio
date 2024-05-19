@@ -1,6 +1,5 @@
 # Luke Butler - Portfolio
 
-By the way here's the link to this page https://lukebutler10.github.io/Portfolio/
 
 ### [YouTube channel Data Anlaysis](https://github.com/lukebutler10/youtube_data_analysis)
 
@@ -8,7 +7,15 @@ In this project I conduct some exploratory data analysis on a selection of YouTu
 
 ![Graph Image](/images/youtube_analytics_img.png)
 
+###[Blockchain and Cryptocurrency](https://github.com/lukebutler10/blockchain-and-cryptocurrency)
 
+In this project my aim was to have a build my development experience in blockchain technology, cryptocurrencies, and frontend development. Here's some key components:
+
+* Building the Blockchain backend in Python
+* Testing the application with Pytest
+* Creating the blockchain network using Flask and Pub/Sub
+* Integrate the Cryptocurrency, building Wallets, Keys, and Transactions
+* Building the fronted portion with React.js
 
 ### [Income prediction using KNN algorithm](https://github.com/lukebutler10/KNN_Income_Prediction)
 
